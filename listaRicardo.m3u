@@ -1,5 +1,5 @@
 #EXTM3U
-######################################################################## Canais | ABERTO
+############################################################################ Canais | ABERTO
 
 #EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/504
@@ -115,6 +115,12 @@ http://xciptv.8888play.one:80/228463308/r576049x/360919
 http://xciptv.8888play.one:80/228463308/r576049x/2394
 
 ############################################################################ Canais | REALITY
+
+#EXTINF:-1 tvg-logo="https://imgur.com/umUx2k0.png" group-title="Canais | REALITY",A FAZENDA 16 HD
+https://cr7v.short.gy/25_mensais/AF1/Whats7591634025.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/umUx2k0.png" group-title="Canais | REALITY",A FAZENDA Cam 2 HD
+https://cr7v.short.gy/25_mensais/AF2/Whats7591634025.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Z3BU41y.png" group-title="Canais | REALITY",Estrela Da Casa 1
 https://cr7v.short.gy/ManoTV/Whats75991634025/ECCam1/Index.m3u8
@@ -824,17 +830,20 @@ http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8
 
 ############################################################################ Canais | NOVELAS
 
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA
+http://conexao-vs.live/live/visionplay/KSZ9kSxhUt/14.m3u8
+
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
-http://pfsv.io:80/pu1411/HP5729/123.m3u8
+http://pfsv.io:80/6705646555/60670/123.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
-http://pfsv.io:80/pu1411/HP5729/114.m3u8
+http://pfsv.io:80/6705646555/60670/123.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/114
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD
-http://pfsv.io:80/pu1411/HP5729/105.m3u8
+http://pfsv.io:80/6705646555/60670/123.m3u8
 
 #EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA FHD [Alter]
 
@@ -867,7 +876,7 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JmK2D4i.png" group-title="Canais | NOVELAS",Pluto TV Novelas
-https://i.mjh.nz/PlutoTV/15dcde0cc2efd2700090b7ff4-alt.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Canais | NOVELAS",Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -1108,6 +1117,9 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/248
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE HD
 http://authbr15jul.halites.online:80/5861/index.m3u8
 
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
+
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | FILMES E SERIES",HBO Family HD
 http://authbr15jul.halites.online:80/5859/index.m3u8
 
@@ -1119,8 +1131,6 @@ http://authbr15jul.halites.online:80/5861/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="Canais | FILMES E SERIES",HBO Xtreme FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
-
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
@@ -2553,6 +2563,99 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 
+################################################################# ESCOLA DOS ROMANCES PROIBIDOS S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E01
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E02
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E03
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E04
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E05
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E06
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E07
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xXII5Hq.png" group-title="Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",S01 E08
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/257221/1x8.mp4
+
+################################################################# DE ATOR A CANTOR S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E01
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E02
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E03
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E04
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E05
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E06
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E07
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AylPnF6.png" group-title="Dorama | DE ATOR A CANTOR S01",S01 E08
+http://fhd5.doramasapp.xyz/45y5ty5rtg345ert45r3t345ty345/SHD12/248123/1x8.mp4
+
+#################################################################  S01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E01
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x1.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E02
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x2.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E03
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x3.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E04
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x4.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E05
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x5.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E06
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x6.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E07
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x7.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E08
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x8.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E09
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x9.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E10
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x10.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E11
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x11.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E12
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x12.mp4
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KGFkB6G.png" group-title="Serie | PURE GENIUS S01",S01 E13
+http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/66545/1x13.mp4
+
 
 ################################################################# RESPIRA S01
 
@@ -3051,6 +3154,9 @@ http://shd2.doramasapp.xyz/5yu456y45tge4rtfg4w3ertf34t43retg54y65uj65uji/SHD2/75
 
 ############################################################################ FILMES
 
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Rebel Ridge
+http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt11301886.mp4
+
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Assassino por Acaso
 http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt20215968.mp4
 
@@ -3116,7 +3222,6 @@ http://fhd1.doramasapp.xyz/ertg43r5g34ty34yt543t43wer234t34t345/FHD3/tt1617661.m
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Goyo
 http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt32598483.mp4
-
 
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",MR-9: Missão Mortal
 http://fhd4.doramasapp.xyz/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt9044418.mp4
@@ -3390,5 +3495,22 @@ http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt3172532.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Diário de um adolescente 
 http://fhd5.doramasapp.xyz/tokIadasfIIlIlenIlIlIsf/FHD5/tt0112461.mp4
 
+
 #EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Deadpool x Wolverine
-http://cloudedge7.com:80/movie/176834/368613/1185539.mp4
+https://stader.pro/a1/out/6/6928/6928_deadpool.and.wolverine.2024.1080p.hdcam.dublado.v.3.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Divertida Mente 2
+https://stader.pro/a1/out/6/7256/7256_inside.out.2.2024.1080p.webrip.dublado.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Bad Boys: Até o Fim
+https://stader.pro/a1/out/6/6756/6756_bad.boys.ate.o.fim.2024.1080p.web-dl.x264.dual.5.1.m3u8
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Assassino por Acaso
+https://watch.brplayer.site/stream/QUd1UndaUnZ3K1lQelJ6QjVwS2J3b3dBK1djWElXbktLS0VlemJXY3B1OTRzYnhicUhwaTM5YWpGSUkyL3lyeksrL3R6UjZLb3MvZGVXcDZZRytEblE9PQ==
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES",Todos Menos Você
+https://watch.brplayer.site/stream/cXYrVEVaaGVvYTUyTU1iRmdsajhUekJPdGYvWWo0dzNCODFyY2VETFJXazJUdlJXREs3N2JnNjBiYjdPOXBpK1Ercm5HNWN6TGNKUEIwSXVNOHVpR0E9PQ==
+
+#EXTINF:-1  tvg-logo="https://imgur.com/L89LBAz.png" group-title="FILMES", Como vender a lua
+https://watch.brplayer.site/stream/RWhVQi85NGZoM010cGRYeW9CcEJEak96THBmVXYvQXFjQUVKU21xaHFJV0tpNFVhNFVCMFV0aFpXNzUyUDlnSG1HRVFYTkJvbUJDNFlUWEhhbGE1SEE9PQ==
+
